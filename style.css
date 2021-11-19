@@ -47,9 +47,13 @@ h1{
     .container{
         display: flex;
         flex-direction: column;
+        margin: 16px;
     }
     .container-number{
         display: flex;
         flex-direction: column;
+    }
+    .container-text{
+        padding: 24px;
     }
 }
